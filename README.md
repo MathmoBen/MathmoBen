@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">BCS accredited in Data Science and AI</h3>
 
-- 📫 How to reach me **fairbaib@gmail.com**
+- 📫 How to reach me **b.t.fairbairn@gmail.com**
 
 - ⚡ Fun fact **I'm currently world number 32 in tiddlywinks**
 
