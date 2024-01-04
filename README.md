@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **b.t.fairbairn@gmail.com**
 
-- ⚡ Fun fact **I'm currently world number 32 in tiddlywinks**
+- ⚡ Fun fact **Im have an Erdo&#x30B;s number of 2. This is unlikely to decrease any time soon as Paul Erdo&#x30B;s stopped publishing about a decade after he died.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
