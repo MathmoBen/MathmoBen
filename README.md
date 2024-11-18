@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">BCS accredited in Data Science and AI</h3>
+<h3 align="center">Data Scientist at <a href="https://eviden.com/">Eviden</a>.</h3>
 
 - 📍 London, UK
 
-- 📫 **How to reach me** b.t.fairbairn@gmail.com
+- 📫 **How to reach me** benjamin.fairbairn@eviden.com
 
 - ⚡ **Fun fact** I have an <a href="https://mathworld.wolfram.com/ErdosNumber.html">Erdo&#x30B;s number</a> of 2 (Fairbairn-<a href="http://cjtcs.cs.uchicago.edu/articles/2014/7/contents.html">Cameron</a>-<a href="https://books.google.co.uk/books?id=68g0Ds4FNM0C&pg=PA61&redir_esc=y#v=onepage&q&f=false">Erdo&#x30B;s</a>). This is unlikely to decrease any time soon as Paul Erdo&#x30B;s stopped publishing about a decade after he died.
 
