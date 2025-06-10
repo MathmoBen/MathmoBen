@@ -13,6 +13,7 @@
 <a href="https://kaggle.com/ben fairbairn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ben fairbairn" height="30" width="40" /></a>
 </p>
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" dir="auto">
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a> 
@@ -29,3 +30,4 @@
 <a href="https://cloud.google.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/c5154bccf972e16333d42688e3e02a424b422a557fdbbac94972dcd2eebfe590/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="gcp" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="max-width: 100%;"> </a> 
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"> </a> 
 </p>
+-->
