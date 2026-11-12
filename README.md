@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">Data Scientist at <a href="https://www.dunnhumby.com/">dunnhumby</a>.</h3>
+<h3 align="center">Data Science & AI Instructor at <a href="https://www.qa.com/">QA</a>.</h3>
 
 - 📍 London, UK
 
